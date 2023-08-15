@@ -332,12 +332,3 @@ app.listen(PORT, () => {
 
 
 
-
-// sujaltagade01
-// eLF1KCzKwc1Kh9wx
-
-// driver
-// mongodb+srv://sujaltagade01:eLF1KCzKwc1Kh9wx@cluster0.g6scxsi.mongodb.net/?retryWrites=true&w=majority
-
-// compass
-// mongodb+srv://sujaltagade01:eLF1KCzKwc1Kh9wx@cluster0.g6scxsi.mongodb.net/
